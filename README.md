@@ -1,2 +1,2 @@
 # bot_key_gen
-Password generation bot
+Генератор паролей для телеграмбота 
